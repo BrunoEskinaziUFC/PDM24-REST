@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestClient</string>
+    <string name="title_activity_pais">PaisActivity</string>
+</resources>
